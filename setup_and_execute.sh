@@ -29,7 +29,7 @@ if [ -f requirements.txt ]; then
 fi
 
 # Run the Python script
-echo "Running handwritten.py..."
+echo "Running cliff_main.py..."
 python3 cliff_main.py
 
 # Confirm execution completion
