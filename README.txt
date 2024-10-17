@@ -10,7 +10,7 @@ python3 cliff_main.py
 
 ##############
 To Automate the whole environment setup and execution. Just open up the terminal, go to the project folder and type following:
-setup_and_execute.sh
+bash setup_and_execute.sh
 
 
 #This will automatically make the COnda environment, install packages and execute the program
