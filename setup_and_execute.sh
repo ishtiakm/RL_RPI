@@ -30,7 +30,7 @@ fi
 
 # Run the Python script
 echo "Running handwritten.py..."
-python3 handwritten.py
+python3 cliff_main.py
 
 # Confirm execution completion
 echo "Execution of cliff_main.py is complete."
