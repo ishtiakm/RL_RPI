@@ -1,0 +1,8 @@
+name: my_mdp
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+  - numpy
+prefix: /opt/miniconda3/envs/my_mdp
